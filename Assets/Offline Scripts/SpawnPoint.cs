@@ -6,4 +6,4 @@ public class SpawnPoint : MonoBehaviour {
     public int teamID = 0;
 
 }
-// Commenting to check GIT
+// Commenting to check GIT 2
